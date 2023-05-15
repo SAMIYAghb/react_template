@@ -1,0 +1,11 @@
+.feature{
+    background-color: rgba(173, 173, 173, 0.3);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.boxs{
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 5%;
+}

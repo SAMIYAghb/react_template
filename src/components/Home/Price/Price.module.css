@@ -1,0 +1,28 @@
+.price{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.items{
+    background-color: rgba(173, 173, 173, 0.3);
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.ul{
+    list-style: none;
+}
+.btn{
+    border: none;
+    border-radius: 20px;
+    padding: 8px 20px;
+}
+.circl{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+@media (max-width:768px) {
+   
+  }

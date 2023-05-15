@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+  }
+  .container{
+    width: 80%;
+  }
+  .heading{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  h3{
+    font-size: 11px; 
+    
+  }
+  .image{
+    width: 100%;
+    height: 50vh;
+    position: relative;
+  }
+  .layer{
+  position: absolute;
+  background-color: rgba(84, 84, 149, 0.499);
+  
+  height: 50vh;
+  width: 100%;
+  top: 60px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  }

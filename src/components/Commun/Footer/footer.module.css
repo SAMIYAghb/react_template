@@ -1,0 +1,30 @@
+.footer{
+    background-color: #122947;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #fff;
+}
+
+.btn2{
+    background-color: #fff;
+    color:  rgb(9, 98, 9);
+    border-radius: 20px;
+    padding: 5px 30px;
+    border: none;
+    margin-top: 30px;
+
+} 
+
+.cont{
+    background-color:rgb(9, 98, 9);
+    padding-top:  2rem;
+    padding-bottom: 1rem;
+    color: #fff;
+    margin-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+
+.footerimg{
+    width: 200px;
+}
